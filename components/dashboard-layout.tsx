@@ -1,4 +1,4 @@
-import { TypeIcon as type, LucideIcon, LayoutDashboard, FileText, Users, CheckSquare, Settings, LogOut } from 'lucide-react'
+import { LucideIcon, LayoutDashboard, FileText, Users, CheckSquare, Settings, LogOut } from 'lucide-react'
 import Link from "next/link"
 import { cn } from "@/lib/utils"
 
